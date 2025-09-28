@@ -210,8 +210,6 @@ A API estará disponível em http://localhost:3000.
 | ------ | ---------------------------- | ---------------------------------------- |
 
 
-
-
 📝 Boas Práticas
 
 Utilize variáveis de ambiente para dados sensíveis.
